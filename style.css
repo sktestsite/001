@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+  background: #f9f9f9;
+  padding: 40px;
+  text-align: center;
+}
+
+a {
+  display: block;
+  margin: 10px;
+  color: white;
+  background: black;
+  padding: 10px;
+  border-radius: 5px;
+}
